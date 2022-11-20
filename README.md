@@ -1,3 +1,4 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/115888385/202893352-502a8317-0ccf-4a34-9f65-af625f216b93.gif)
 # IBM-Project-42926-1660711380
 SmartFarmer - IoT Enabled Smart Farming Application
 #IBM-project_42926-1660711380!
