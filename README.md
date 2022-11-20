@@ -1,7 +1,7 @@
 # IBM-Project-42926-1660711380
 SmartFarmer - IoT Enabled Smart Farming Application
-#IBM-project_28819-1660117082!
-![Smart IOT application](https://www.mediafire.com/file/6bxugydi0ephttj/ezgif.com-gif-maker.gif/file)
+#IBM-project_42926-1660711380!
+![Smart IOT application](https://www.mediafire.com/file/6bxugydi0ephttj/ezgif.com-gif-maker.gif/file.githubusercontent.com/92634704/192141373-fa536515-dab3-4444-8665-f25acfc01052.gif)
 # SmartFarmer IOT Enabled Smart Farming Application:palm_tree:
 :rocket:<b>TECHNOLOGY : INTERNET OF THINGS </b>           
 :rocket:<b>TEAM ID  : PNT2022TMID47167</b>
